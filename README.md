@@ -1,5 +1,3 @@
-Hola 👋 mi nombre es Facundo y soy técnico en informática con más de un año de experiencia en atención al cliente en el sector fintech, combinada con una sólida formación en desarrollo de software y experiencia freelance como desarrollador fullstack. Poseo habilidades en backend en especial con Python. Busco seguir desarrollándome como backend developer en un entorno dinámico y de alto impacto.
+Hola 👋 mi nombre es Facundo y actualmente, soy técnico en informática, estudiante de ingeniería en informática, con más de un año de experiencia en atención al cliente en el sector fintech, combinada con una sólida formación en desarrollo de software y experiencia freelance como desarrollador Fullstack. Poseo habilidades en backend y me gustaría tener nuevos desafíos en areas como Data, Cybersecurity o Backend Development.
 
--
-
-Hello 👋 my name is Facundo and I'm IT Technician with experience in customer support in the fintech sector, combine with a solid formation in software development and freelance experience with fullstack developer. I can skills in backend devolpment in special with Python. I find follow develop me with backend developer in a dynamic circle and with high impact.
+Actually, I'm informatic technician, i'm informatic engineering student with a year experience in customer support in a fintech sector, combined with a solid formation in software development and a year of freelance Fullstack developer. I have skills in backend, and I would like to take new challenges in areas such as Data, Cybersecurity or Backend Development.
