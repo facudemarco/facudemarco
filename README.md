@@ -1,4 +1,4 @@
-Soy desarrollador backend y analista de datos con foco en sistemas transaccionales, automatización e inteligencia artificial aplicada.
+Hola! 👋 Mi nombre es Facundo. Soy desarrollador backend y analista de datos con foco en sistemas transaccionales, automatización e inteligencia artificial aplicada.
 
 Construí y opero varios productos digitales reales — desde una plataforma de gestión médica hasta un motor de reservas turísticas y un sistema de pedidos en tiempo real — lo que me dio experiencia profunda en arquitectura de datos, diseño de APIs, integración de servicios y resolución de problemas en producción.
 
